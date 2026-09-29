@@ -36,4 +36,4 @@ Status: APROVADO!<br>
 ### Autor e Contato
 
 Maryane Aparecida de Oliveira<br>
-[Clique aqui para acessar o meu Linkedin](https://www.linkedin.com/in/maryaneoliveirag)
+[Clique aqui para acessar o meu Linkedin](https://www.linkedin.com/in/maryaneoliveira)
